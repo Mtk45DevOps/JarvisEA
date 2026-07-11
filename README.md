@@ -1,4 +1,4 @@
-# SythnVPS-Jarvis EA
+Jarvis EA
 
 An automated Fibonacci-based trading bot for MetaTrader 5.
 
